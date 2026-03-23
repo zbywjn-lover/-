@@ -1,0 +1,124 @@
+===== 24182106 =====
+student commit on dev: d1a574c
+created branches: 24182106-1, 24182106-2
+dev restored by leader: 6114cfa
+24182106-1 restored locally: 3057e28
+24182106-2 merge dev:
+Updating d1a574c..6114cfa
+Fast-forward
+ main.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+24182106-1 merge dev (exit=0):
+Merge made by the 'ort' strategy.
+no conflict on 24182106-1
+
+===== 24182105 =====
+student commit on dev: 5cfdfcf
+created branches: 24182105-1, 24182105-2
+dev restored by leader: 6246015
+24182105-1 restored locally: 1530d0f
+24182105-2 merge dev:
+Updating 5cfdfcf..6246015
+Fast-forward
+ main.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+24182105-1 merge dev (exit=0):
+Merge made by the 'ort' strategy.
+no conflict on 24182105-1
+
+===== 24182101 =====
+student commit on dev: 9fc40e0
+created branches: 24182101-1, 24182101-2
+dev restored by leader: 97b36e3
+24182101-1 restored locally: 13b6647
+24182101-2 merge dev:
+Updating 9fc40e0..97b36e3
+Fast-forward
+ main.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+24182101-1 merge dev (exit=0):
+Merge made by the 'ort' strategy.
+no conflict on 24182101-1
+
+===== 22376204 =====
+student commit on dev: 9f037d7
+created branches: 22376204-1, 22376204-2
+dev restored by leader: ecd6761
+22376204-1 restored locally: efb30b7
+22376204-2 merge dev:
+Updating 9f037d7..ecd6761
+Fast-forward
+ main.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+22376204-1 merge dev (exit=0):
+Merge made by the 'ort' strategy.
+no conflict on 22376204-1
+
+===== 74216204 =====
+student commit on dev: 3860a5e
+created branches: 74216204-1, 74216204-2
+dev restored by leader: 4aef87e
+74216204-1 restored locally: e107c4c
+74216204-2 merge dev:
+Updating 3860a5e..4aef87e
+Fast-forward
+ main.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+74216204-1 merge dev (exit=0):
+Merge made by the 'ort' strategy.
+no conflict on 74216204-1
+
+
+Final branches:
+  22376204-1
+  22376204-2
+  24182101-1
+  24182101-2
+  24182105-1
+  24182105-2
+  24182106-1
+  24182106-2
+  74216204-1
+  74216204-2
+* dev
+
+Recent history:
+*   4393244 (74216204-1) Merge branch 'dev' into 74216204-1
+|\  
+| * 4aef87e (HEAD -> dev, 74216204-2) dev: restore leader id after 74216204
+* | e107c4c 74216204-1: restore leader id
+|/  
+* 3860a5e dev: replace leader id with 74216204
+| *   c5988d8 (22376204-1) Merge branch 'dev' into 22376204-1
+| |\  
+| |/  
+|/|   
+* | ecd6761 (22376204-2) dev: restore leader id after 22376204
+| * efb30b7 22376204-1: restore leader id
+|/  
+* 9f037d7 dev: replace leader id with 22376204
+| *   04fdeb1 (24182101-1) Merge branch 'dev' into 24182101-1
+| |\  
+| |/  
+|/|   
+* | 97b36e3 (24182101-2) dev: restore leader id after 24182101
+| * 13b6647 24182101-1: restore leader id
+|/  
+* 9fc40e0 dev: replace leader id with 24182101
+| *   1a94f39 (24182105-1) Merge branch 'dev' into 24182105-1
+| |\  
+| |/  
+|/|   
+* | 6246015 (24182105-2) dev: restore leader id after 24182105
+| * 1530d0f 24182105-1: restore leader id
+|/  
+* 5cfdfcf dev: replace leader id with 24182105
+| *   d652b6a (24182106-1) Merge branch 'dev' into 24182106-1
+| |\  
+| |/  
+|/|   
+* | 6114cfa (24182106-2) dev: restore leader id after 24182106
+| * 3057e28 24182106-1: restore leader id
+|/  
+* d1a574c dev: replace leader id with 24182106
+* e8f5c6b init dev with leader id
